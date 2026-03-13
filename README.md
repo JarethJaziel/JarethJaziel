@@ -14,7 +14,8 @@ Software Engineering student focused on backend development, software architectu
 
 ### Frameworks & Libraries
 <p>
-<img src="https://skillicons.dev/icons?i=spring,angular,libgdx" />
+<img src="https://skillicons.dev/icons?i=spring,angular" />
+LibGDX
 </p>
 
 ### Databases
