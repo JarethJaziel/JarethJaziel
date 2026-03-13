@@ -1,5 +1,5 @@
 # Jareth Moo
-### Software Engineering Student | Backend Developer & Architecture Enthusiast
+### Software Engineering Student | Backend Developer
 
 Software Engineering student focused on building scalable backend systems, software architecture, and process optimization.
 
