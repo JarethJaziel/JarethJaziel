@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Jareth Moo 👋
 
-<!--
-**JarethJaziel/JarethJaziel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student focused on backend development and software architecture.
 
-Here are some ideas to get you started:
+## Technologies
+Java | Spring Boot | Angular | PostgreSQL | MySql | REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Devotional Web App
+Full-stack web application for publishing and managing daily devotionals.
+
+Tech stack:
+Spring Boot • Angular • PostgreSQL
+
+Demo:
+https://jarethjaziel.github.io/Devo-app/
+
+Backend:
+https://github.com/JarethJaziel/Devo-Service
+
+Frontend:
+https://github.com/JarethJaziel/Devo-app
+
+
+### Abyss Battle
+2D combat game developed in Java using LibGDX.
+
+Tech stack:
+Java • LibGDX • Gradle • SonarQube
+
+Repository:
+https://github.com/JarethJaziel/Abyss_Battle_Java_Game
