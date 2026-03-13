@@ -1,18 +1,21 @@
 # Jareth Moo
 ### Software Engineering Student | Backend Developer
-
-Software Engineering student focused on building scalable backend systems, software architecture, and process optimization.
+Java | Spring | Angular | PostgreSQL
+Software Engineering student focused on backend development, software architecture, and building scalable web applications.
 
 ---
 
 ## Technical Stack
 
-* **Languages:** Java, PHP, JavaScript
-* **Frameworks & Libraries:** Spring Boot (MVC, Security, Data), Angular, LibGDX
-* **Databases:** PostgreSQL, MySQL, SQL Server
-* **Tools & DevOps:** Git/GitHub, Gradle, RabbitMQ, SonarQube, RESTful APIs
+**Languages:** Java, PHP, JavaScript, Python
+**Frameworks & Libraries:** Spring Boot, Angular, LibGDX  
+**Databases:** PostgreSQL, MySQL, SQL Server  
 
 ---
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JarethJaziel&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JarethJaziel&layout=compact)
 
 ## Featured Projects
 
